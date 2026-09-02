@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# VoiceClone local data (samples, generated audio, registries)
+data/
